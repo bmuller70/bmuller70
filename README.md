@@ -1,5 +1,3 @@
-# 👋 Olá! Eu sou o Bruno Müller
-
 ## :book: Sobre Mim
 Sou pesquisador na área de **Ciência de dados com foco em visão computacional** e analise de dados clínicos aplicados a exames laboratoriais e epidemiologia. Tenho forte background em **integração de sistemas laboratoriais (LIS/RIS/LIMS), automação de processos e administração de sistemas de gestão hospitalar**. 
 
