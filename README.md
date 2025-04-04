@@ -14,39 +14,41 @@ Saiba mais sobre meu projeto de mestrado aqui 🔗 [Redes neurais para análise 
 
 ---
 
-## 🔬 Meus Projetos
+# 🔬 Meus Projetos
 
-### Projetos de Deep Learning e Machine learning
+## Projetos de Deep Learning e Machine learning
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,postgresql,tensorflow,github,googlecolab&titles=true)
 
-#### 🩸 [Diagnóstico de Anemias com Keras](https://github.com/bmuller70/Diagnostico_de_anemias_com_Keras) :slot_machine:
+### 🩸 [Diagnóstico de Anemias com Keras](https://github.com/bmuller70/Diagnostico_de_anemias_com_Keras) :slot_machine:
 
 Desenvolvimento de um modelo de Deep Learning para diagnosticar diferentes tipos de anemia a partir de exames de sangue. Utiliza **CNNs para análise de imagens microscópicas e algoritmos de machine learning para dados estruturados**.
+O projeto de diagnostico de anemias é um projeto de estudo pessoal que gosto bastante. Fundamentalmente ele tem o objetivo de solidificar meus conhecimentos sobre as bases de redes neurais estudando cada um de seus parâmetros e suas funções. Além disso também foi um exercício de análise exploratório e limpeza de bases de dados clínicos para construir um modelo minimamente funcional, com a ideia de apresentar tecnologias potencialmente transformadores no contexto de análises clínicas. 
 
+### :chart_with_downwards_trend: [Previsão do Fechamento do Ibovespa](https://github.com/bmuller70/Previsao_fechamento_ibov) :chart_with_upwards_trend:
 
-### 📊 [Preparacao operacional com base em dados para pandemias](https://github.com/bmuller70/Preparacao-operacional-com-base-em-dados-para-pandemias) :pill:
+Nesse projeto, realizamos uma limpeza extensiva dos dados históricos do Ibovespa, levando em conta a sazonalidade e a volatilidade inerentes ao mercado financeiro. Exploramos os desafios de analisar um contexto tão dinâmico quanto a bolsa de valores, onde a variabilidade dos dados pode dificultar a extração de padrões consistentes. Para isso, aplicamos e testamos diversos modelos de séries temporais, como SARIMAX, XGBoost e Prophet, avaliando seu desempenho na previsão do fechamento diário do índice. O projeto evidencia o processo de preparação dos dados, a identificação de tendências e sazonalidades, e a comparação dos modelos para oferecer insights mais precisos sobre o comportamento do mercado.
 
-#### 📈 [Previsão do Fechamento do Ibovespa](https://github.com/bmuller70/Previsao_IBOV) 📉
-Aplicação de **modelos de séries temporais (SARIMAX, XGBoost, Prophet)** para prever o fechamento diário do índice Bovespa.
-
+---
 
 ### Projetos de Análise de dados
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,postgresql,pyspark,seaborn,matplotlib&titles=true)
 
-#### 🍷 Análise de Exportações do Vale dos Vinhedos
-Exploração de **dados históricos de exportação de vinhos** para entender tendências do setor e identificar padrões de crescimento ao longo dos últimos 15 anos.
-🔗 [Repositório](https://github.com/bmuller70/Analise_Vale_Vinhedos)
+### 🍷 [Análise de Exportações do Vale dos Vinhedos](https://github.com/bmuller70/Analise_Vale_Vinhedos) :chart_with_downwards_trend:
+Nesse projeto, realizamos uma análise detalhada das exportações na região do Vale dos Vinhedos, utilizando dados provenientes de diversas fontes para identificar padrões e tendências no setor. Realizamos uma extensa limpeza e tratamento dos dados com Python, fazendo uso de bibliotecas como Pandas para manipulação de dados, Matplotlib e Seaborn para visualizações, além de aplicar técnicas estatísticas para análise exploratória. O projeto destaca o uso de ferramentas modernas de análise e visualização, evidenciando a capacidade de transformar dados brutos em insights estratégicos para compreender o desempenho das exportações na região.
 
-#### 🏥 Preparação Operacional com Base em Dados para Pandemias
-Projeto acadêmico para um hospital público de São Paulo, utilizando **Google BigQuery e Spark** para análise de grandes volumes de dados epidemiológicos e planejamento estratégico para futuras pandemias.
-🔗 [Repositório](https://github.com/bmuller70/Pandemia_Analise_Dados)
+### 📊 [Preparacao operacional com base em dados para pandemias](https://github.com/bmuller70/Preparacao-operacional-com-base-em-dados-para-pandemias) :pill:
 
-### Projeto de BI
-
-
+Nesse projeto, desenvolvemos uma abordagem baseada em dados para apoiar a preparação operacional em contextos de pandemia. Realizamos a limpeza e integração de dados provenientes de diversas fontes, enfrentando desafios relacionados à heterogeneidade e à volatilidade inerentes a cenários de crise sanitária. Exploramos técnicas de análise exploratória e modelagem preditiva para identificar padrões e tendências que podem auxiliar na previsão de demandas e na otimização da alocação de recursos. O projeto ressalta a importância de transformar dados brutos em insights estratégicos, contribuindo para a tomada de decisões mais informadas em situações de emergência em saúde pública.
 
 ---
+
+### Projetos de BI
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,pbi,pyspark&titles=true)
+
+### 📚 [Passos Mágicos: Análise de Impacto e Evolução dos Alunos Através de Dados](https://github.com/bmuller70/analises_passos_magicos) 🎓
+
+Nesse projeto de BI, utilizamos Python exclusivamente para a limpeza e preparação dos dados do programa Passos Mágicos. Após essa etapa, aplicamos técnicas de Business Intelligence para transformar os dados tratados em dashboards interativos e visualizações dinâmicas. O objetivo foi proporcionar insights estratégicos sobre o desempenho dos alunos, demonstrando como a integração de processos de data cleansing com soluções de BI pode apoiar a tomada de decisões educacionais.
 
 ## 🛠️ Habilidades Técnicas
 
