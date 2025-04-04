@@ -3,7 +3,7 @@ Sou pesquisador na área de **Ciência de dados com foco em visão computacional
 
 Atualmente, curso **Mestrado em Tecnologias da Informação e Gestão da Saúde na UFCSPA**, onde desenvolvo pesquisas aplicadas em **visão computacional para análise de exames microscópicos de sangue**.
 
-Saiba mais sobre meu projeto de mestrado aqui 🔗 [Redes neurais para análise de imagens de microscopia de esfregaço sanguíneo.](https://github.com/bmuller70/Diagnostico_de_anemias_com_Keras)
+Saiba mais sobre meu projeto de mestrado aqui 🔗 [Redes neurais para análise de imagens de microscopia de esfregaço sanguíneo.](https://github.com/bmuller70/framework_de_DL_para_an-lise_de_esfrega-o_sangu-neo)
 
 
 📧 Contato: bmuller7000@hotmail.com  
