@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Bruno Müller
 
-## 🚀 Sobre Mim
+## :book: Sobre Mim
 Sou pesquisador na área de **Ciência de dados com foco em visão computacional** e analise de dados clínicos aplicados a exames laboratoriais e epidemiologia. Tenho forte background em **integração de sistemas laboratoriais (LIS/RIS/LIMS), automação de processos e administração de sistemas de gestão hospitalar**. 
 
 Atualmente, curso **Mestrado em Tecnologias da Informação e Gestão da Saúde na UFCSPA**, onde desenvolvo pesquisas aplicadas em **visão computacional para análise de exames microscópicos de sangue**.
@@ -10,7 +10,19 @@ Saiba mais sobre meu projeto de mestrado aqui 🔗 [Redes neurais para análise 
 
 📧 Contato: bmuller7000@hotmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/bruno-muller-335630196/)  
-🖥️ [Portfólio no GitHub](https://github.com/bmuller70)
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?logo=postgresql&logoColor=white)
+![Análise de Dados](https://img.shields.io/badge/An%C3%A1lise%20de%20Dados-0072C6?logo=databricks&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?logo=opencv&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+
+
+
+
+
 
 ---
 
@@ -50,13 +62,17 @@ Nesse projeto, desenvolvemos uma abordagem baseada em dados para apoiar a prepar
 
 Nesse projeto de BI, utilizamos Python exclusivamente para a limpeza e preparação dos dados do programa Passos Mágicos. Após essa etapa, aplicamos técnicas de Business Intelligence para transformar os dados tratados em dashboards interativos e visualizações dinâmicas. O objetivo foi proporcionar insights estratégicos sobre o desempenho dos alunos, demonstrando como a integração de processos de data cleansing com soluções de BI pode apoiar a tomada de decisões educacionais.
 
-## 🛠️ Habilidades Técnicas
+## 🛠️ Habilidades Técnicas  
 
-- **Linguagens e Bibliotecas**: Python (Pandas, NumPy, Matplotlib, Seaborn, Flask)  
-- **Banco de Dados**: PostgreSQL, SQL Server, Oracle (DQL, DDL, DML)  
-- **Infraestrutura**: Docker, Portainer, Ubuntu (Administração de Sistemas)  
-- **Machine Learning & AI**: Modelos Preditivos (SARIMAX, XGBoost, Prophet), CNNs para Visão Computacional  
-- **Análise de Dados**: PySpark, Web Scraping, Regex  
-- **Aplicação na Saúde**: Ciência de Dados aplicada a Dados Biomédicos  
+- 🔗 **Integração e interoperabilidade** entre sistemas hospitalares e laboratoriais (Tasy, MV Soul, AGHUX, entre outros)  
+- 🏥 **Interfaceamento e configuração** de equipamentos laboratoriais (ASTM/HL7)  
+- 💾 **Administração e suporte** de sistemas LIS e HIS em múltiplas plataformas (Cloud, Linux, Windows)  
+- 🗄️ **Administração e otimização** de bancos de dados (PostgreSQL, Oracle, SQL Server)  
+- 📊 **Modelagem e análise** de dados clínicos e laboratoriais  
+- 🤖 **Machine Learning e Deep Learning** aplicados à saúde  
+- 🖼️ **Visão computacional** para segmentação e classificação de imagens médicas  
+- 📂 **Processamento e estruturação** de grandes bases de dados hospitalares  
+- 📉 **Desenvolvimento de dashboards e relatórios** para suporte à decisão  
+
 
 📌 Sempre aberto para colaborações e novas oportunidades! Fique à vontade para explorar meus projetos e contribuir. 😃
