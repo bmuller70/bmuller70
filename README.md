@@ -62,15 +62,48 @@ Nesse projeto de BI, utilizamos Python exclusivamente para a limpeza e preparaç
 
 ## 🛠️ Habilidades Técnicas  
 
-- 🔗 **Integração e interoperabilidade** entre sistemas hospitalares e laboratoriais (Tasy, MV Soul, AGHUX, entre outros)  
-- 🏥 **Interfaceamento e configuração** de equipamentos laboratoriais (ASTM/HL7)  
-- 💾 **Administração e suporte** de sistemas LIS e HIS em múltiplas plataformas (Cloud, Linux, Windows)  
-- 🗄️ **Administração e otimização** de bancos de dados (PostgreSQL, Oracle, SQL Server)  
-- 📊 **Modelagem e análise** de dados clínicos e laboratoriais  
-- 🤖 **Machine Learning e Deep Learning** aplicados à saúde  
-- 🖼️ **Visão computacional** para segmentação e classificação de imagens médicas  
-- 📂 **Processamento e estruturação** de grandes bases de dados hospitalares  
-- 📉 **Desenvolvimento de dashboards e relatórios** para suporte à decisão  
+## 💼 Habilidades e Competências
+
+🔗 **Integração e interoperabilidade entre sistemas hospitalares e laboratoriais**  
+Experiência com sistemas com os principais sistemas nacionais **LIS/RIS**, promovendo a integração de dados clínicos em ambientes complexos.
+
+🏥 **Interfaceamento e configuração de equipamentos laboratoriais (ASTM/HL7)**  
+Implementação de protocolos de comunicação para garantir interoperabilidade e padronização no fluxo de dados laboratoriais.
+
+💾 **Administração e suporte de sistemas LIS e HIS**  
+Gerenciamento de sistemas de informação em saúde em múltiplas plataformas (**Cloud, Linux, Windows**), com foco em disponibilidade e segurança.
+
+🗄️ **Administração e otimização de bancos de dados**  
+Manutenção e análise de **PostgreSQL**, **Oracle** e **SQL Server**, garantindo performance e integridade dos dados.
+
+📊 **Modelagem e análise de dados clínicos e laboratoriais**  
+Construção de modelos relacionais e análises descritivas e inferenciais com **Python (Pandas, NumPy, SciPy)**.
+
+🤖 **Machine Learning e Deep Learning aplicados à saúde**  
+Desenvolvimento de modelos preditivos e redes neurais (**Scikit-learn, TensorFlow, PyTorch**) para apoio diagnóstico e prognóstico clínico.
+
+🖼️ **Visão computacional para imagens médicas**  
+Aplicação de técnicas de **segmentação e classificação de imagens** microscópicas e radiológicas com **OpenCV, U-Net e YOLO**.
+
+📂 **Processamento e estruturação de grandes bases hospitalares**  
+Limpeza, padronização e transformação de dados utilizando ferramentas de **ETL**, com foco em qualidade e governança.
+
+📉 **Desenvolvimento de dashboards e relatórios interativos**  
+Criação de visualizações com **Power BI, Tableau, Matplotlib e Seaborn** para suporte à decisão clínica e operacional.
+
+---
+
+## 🤝 Competências Comportamentais
+
+🧠 **Pensamento Analítico e Resolução de Problemas**  
+Formulação de hipóteses, definição de **KPIs** e condução de análises críticas para detectar padrões e gerar melhorias em processos de saúde.
+
+🗣️ **Comunicação de Resultados Técnicos**  
+Tradução de análises complexas em insights acessíveis a times multidisciplinares, apoiando decisões estratégicas baseadas em dados.
+
+📅 **Gestão de Projetos e Colaboração em Equipe**  
+Atuação em ambientes ágeis e colaboração com áreas técnicas e clínicas para entrega de soluções alinhadas com as necessidades institucionais.
+
 
 
 📌 Sempre aberto para colaborações e novas oportunidades! Fique à vontade para explorar meus projetos e contribuir. 😃
